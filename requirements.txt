@@ -1,0 +1,7 @@
+click
+astroid
+rich
+pytest
+sqlite3
+aiohttp
+async-timeout
